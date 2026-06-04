@@ -1,0 +1,10 @@
+{
+  "dataset": "x-ray-id-zfisb-fsod-dyjv",
+  "base_mAP": 0.07290475632370547,
+  "best_mAP": 0.07290475632370547,
+  "best_params": {
+    "type": "base"
+  },
+  "candidate_reports": [],
+  "updated": false
+}

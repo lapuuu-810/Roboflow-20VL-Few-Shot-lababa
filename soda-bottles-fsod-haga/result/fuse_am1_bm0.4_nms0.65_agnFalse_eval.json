@@ -1,0 +1,31 @@
+{
+  "name": "fuse_am1_bm0.4_nms0.65_agnFalse",
+  "mAP": 0.29053820762491916,
+  "mAP50": 0.7067611510550772,
+  "mAP75": 0.19813326160543998,
+  "stats": [
+    0.29053820762491916,
+    0.7067611510550772,
+    0.19813326160543998,
+    0.0,
+    0.0032728272827282725,
+    0.2914301988718751,
+    0.06211100105032384,
+    0.37988802821640655,
+    0.4232831585214323,
+    0.0,
+    0.01111111111111111,
+    0.42499273374941476
+  ],
+  "count": 6396,
+  "params": {
+    "am": 1,
+    "bm": 0.4,
+    "nms": 0.65,
+    "agnostic": false
+  },
+  "sources": {
+    "doubao": "/data/LPP/cvpr/few_shot/sam3-main/best_sam3/soda-bottles-fsod-haga/doubao_soda_direct_0_9/predictions.json",
+    "final_sam3": "/data/LPP/cvpr/few_shot/final/soda-bottles-fsod-haga/result/soda_sam3_color_prompt_scale098_shape_filter.json"
+  }
+}

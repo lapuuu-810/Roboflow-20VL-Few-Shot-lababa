@@ -1,0 +1,46 @@
+{
+  "dataset": "soda-bottles-fsod-haga",
+  "base_mAP": 0.30134616162576117,
+  "best_mAP": 0.30134616162576117,
+  "best_params": {
+    "type": "base"
+  },
+  "candidate_reports": [
+    {
+      "file": "sam3_color_prompt_post_sweep/predictions_best.json",
+      "mode": "as_is",
+      "mAP": 0.2698734590910331,
+      "coverage": 1.0,
+      "num": 6880
+    },
+    {
+      "file": "sam3_color_prompt_scale105/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.23079216567450944,
+      "coverage": 1.0,
+      "num": 6697
+    },
+    {
+      "file": "doubao_soda_direct_0_9/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.2777564065822576,
+      "coverage": 1.0,
+      "num": 5741
+    },
+    {
+      "file": "sam3_color_prompt_scale098_shape_filter/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.27221210619077024,
+      "coverage": 1.0,
+      "num": 5514
+    },
+    {
+      "file": "soda_sam3_post_best/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.11137102839540354,
+      "coverage": 1.0,
+      "num": 3809
+    }
+  ],
+  "updated": false
+}

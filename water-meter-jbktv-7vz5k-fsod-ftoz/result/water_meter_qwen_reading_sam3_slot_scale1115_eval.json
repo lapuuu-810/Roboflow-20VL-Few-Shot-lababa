@@ -1,0 +1,18 @@
+{
+  "scale": 1.115,
+  "predictions": 439,
+  "mAP": 0.19478993205259887,
+  "mAP50": 0.4562274441877299,
+  "mAP75": 0.1743701048043861,
+  "mAP_small": 0.18058810734461672,
+  "mAP_medium": 0.21084988743313104,
+  "mAP_large": -1.0,
+  "AR1": 0.18470433113425028,
+  "AR10": 0.23814876432666193,
+  "AR100": 0.23814876432666193,
+  "AR_small": 0.20613064713064716,
+  "AR_medium": 0.25448375916022975,
+  "AR_large": -1.0,
+  "source": "/data/LPP/cvpr/few_shot/sam3-main/best_sam3/water-meter-jbktv-7vz5k-fsod-ftoz/qwen_number_prompt_sam3_tuned/predictions.json",
+  "bbox_center_fixed_scale_wh": 1.115
+}

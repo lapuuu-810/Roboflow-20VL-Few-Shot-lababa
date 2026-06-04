@@ -1,0 +1,21 @@
+{
+  "num_preds": 5003,
+  "mAP": 0.15560081140053694,
+  "mAP50": 0.3121049858911415,
+  "mAP75": 0.13429024923894065,
+  "stats": [
+    0.15560081140053694,
+    0.3121049858911415,
+    0.13429024923894065,
+    0.09232262705556367,
+    0.14175901414409325,
+    0.14917287674432902,
+    0.2974431617296051,
+    0.38956313489033995,
+    0.38956313489033995,
+    0.14141630901287552,
+    0.3442813987950072,
+    0.3865153072607892
+  ],
+  "coco_summary": "loading annotations into memory...\nDone (t=0.00s)\ncreating index...\nindex created!\nLoading and preparing results...\nDONE (t=0.01s)\ncreating index...\nindex created!\nRunning per image evaluation...\nEvaluate annotation type *bbox*\nDONE (t=0.32s).\nAccumulating evaluation results...\nDONE (t=0.13s).\n Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.156\n Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.312\n Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.134\n Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.092\n Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.142\n Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.149\n Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.297\n Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.390\n Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.390\n Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.141\n Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.344\n Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.387\n"
+}

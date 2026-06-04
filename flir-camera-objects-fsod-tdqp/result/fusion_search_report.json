@@ -1,0 +1,10 @@
+{
+  "dataset": "flir-camera-objects-fsod-tdqp",
+  "base_mAP": 0.3749494059740835,
+  "best_mAP": 0.3749494059740835,
+  "best_params": {
+    "type": "base"
+  },
+  "candidate_reports": [],
+  "updated": false
+}

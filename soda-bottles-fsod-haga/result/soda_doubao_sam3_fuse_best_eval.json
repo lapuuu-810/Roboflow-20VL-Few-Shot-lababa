@@ -1,0 +1,33 @@
+{
+  "name": "fuse_sam3_sx1.0_sy0.98_thr0_nms0.45_agnFalse_doubao_sx0.95_sy0.95_thr0_nms0.35_agnTrue_am0_bm1_nms0.999_agnFalse",
+  "mAP": 0.30134616162576117,
+  "mAP50": 0.7103530777376379,
+  "mAP75": 0.21543142246376087,
+  "stats": [
+    0.30134616162576117,
+    0.7103530777376379,
+    0.21543142246376087,
+    0.0,
+    0.0022442244224422443,
+    0.3027416351883465,
+    0.06345121301156217,
+    0.3873391208727149,
+    0.4602627738328994,
+    0.0,
+    0.01111111111111111,
+    0.4621142239598338
+  ],
+  "count": 11233,
+  "params": {
+    "a": "sam3_sx1.0_sy0.98_thr0_nms0.45_agnFalse",
+    "b": "doubao_sx0.95_sy0.95_thr0_nms0.35_agnTrue",
+    "am": 0,
+    "bm": 1,
+    "nms": 0.999,
+    "agnostic": false
+  },
+  "sources": {
+    "doubao": "/data/LPP/cvpr/few_shot/sam3-main/best_sam3/soda-bottles-fsod-haga/doubao_soda_direct_0_9/predictions.json",
+    "final_sam3": "/data/LPP/cvpr/few_shot/final/soda-bottles-fsod-haga/result/soda_sam3_color_prompt_scale098_shape_filter.json"
+  }
+}

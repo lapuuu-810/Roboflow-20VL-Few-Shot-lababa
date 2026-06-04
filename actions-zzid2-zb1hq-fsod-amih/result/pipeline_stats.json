@@ -1,0 +1,20 @@
+{
+  "images_with_candidates": 409,
+  "primary_predictions": 1860,
+  "refined_predictions": 5003,
+  "action_fallback": "confusion",
+  "fallback_score_factor": 0.5,
+  "by_label": {
+    "ball": 533,
+    "Block": 999,
+    "Attack": 1327,
+    "Defense": 328,
+    "Serve": 817,
+    "Set": 999
+  },
+  "by_team": {
+    "attacking": 817,
+    "defending": 510
+  },
+  "model": "/data/LPP/cvpr/model/Qwen/Qwen3.6-27B"
+}

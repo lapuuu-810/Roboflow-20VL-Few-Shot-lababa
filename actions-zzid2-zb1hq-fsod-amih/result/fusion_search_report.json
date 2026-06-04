@@ -1,0 +1,18 @@
+{
+  "dataset": "actions-zzid2-zb1hq-fsod-amih",
+  "base_mAP": 0.16027392881512784,
+  "best_mAP": 0.16027392881512784,
+  "best_params": {
+    "type": "base"
+  },
+  "candidate_reports": [
+    {
+      "file": "qwen_direct_actions_smalltest_36/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.08771789326917932,
+      "coverage": 1.0,
+      "num": 3508
+    }
+  ],
+  "updated": false
+}

@@ -1,0 +1,29 @@
+{
+  "dataset": "water-meter-jbktv-7vz5k-fsod-ftoz",
+  "method": "qwen_reading_sam3_slot_scale1115",
+  "source_predictions": "/data/LPP/cvpr/few_shot/sam3-main/best_sam3/water-meter-jbktv-7vz5k-fsod-ftoz/qwen_number_prompt_sam3_tuned_scale1p115/predictions.json",
+  "source_eval": "/data/LPP/cvpr/few_shot/sam3-main/best_sam3/water-meter-jbktv-7vz5k-fsod-ftoz/qwen_number_prompt_sam3_tuned_scale1p115/eval.json",
+  "final_json": "/data/LPP/cvpr/few_shot/final/water-meter-jbktv-7vz5k-fsod-ftoz/result/water_meter_qwen_reading_sam3_slot_scale1115.json",
+  "final_eval": "/data/LPP/cvpr/few_shot/final/water-meter-jbktv-7vz5k-fsod-ftoz/result/water_meter_qwen_reading_sam3_slot_scale1115_eval.json",
+  "final_pkl": "/data/LPP/cvpr/few_shot/final/water-meter-jbktv-7vz5k-fsod-ftoz/result/water-meter-jbktv-7vz5k-fsod-ftoz.pkl",
+  "submission_final_filled_pkl": "/data/LPP/cvpr/few_shot/final/submission_final_filled/water-meter-jbktv-7vz5k-fsod-ftoz.pkl",
+  "bbox_center_fixed_scale_wh": 1.115,
+  "metrics": {
+    "scale": 1.115,
+    "predictions": 439,
+    "mAP": 0.19478993205259887,
+    "mAP50": 0.4562274441877299,
+    "mAP75": 0.1743701048043861,
+    "mAP_small": 0.18058810734461672,
+    "mAP_medium": 0.21084988743313104,
+    "mAP_large": -1.0,
+    "AR1": 0.18470433113425028,
+    "AR10": 0.23814876432666193,
+    "AR100": 0.23814876432666193,
+    "AR_small": 0.20613064713064716,
+    "AR_medium": 0.25448375916022975,
+    "AR_large": -1.0,
+    "source": "/data/LPP/cvpr/few_shot/sam3-main/best_sam3/water-meter-jbktv-7vz5k-fsod-ftoz/qwen_number_prompt_sam3_tuned/predictions.json",
+    "bbox_center_fixed_scale_wh": 1.115
+  }
+}

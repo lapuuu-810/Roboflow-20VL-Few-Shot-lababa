@@ -1,0 +1,63 @@
+{
+  "dataset": "wildfire-smoke-fsod-myxt",
+  "base_mAP": 0.29434374480371167,
+  "best_mAP": 0.2969122955059675,
+  "best_params": {
+    "type": "fuse",
+    "file": "qwen_smoke_direct_0_9_36/predictions.json",
+    "candidate_mode": "as_is",
+    "candidate_multiplier": 0.2,
+    "nms": 0.85,
+    "candidate_mAP": 0.20340902451764806
+  },
+  "candidate_reports": [
+    {
+      "file": "doubao_smoke_direct_0_9/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.2354978521115505,
+      "coverage": 1.0,
+      "num": 78
+    },
+    {
+      "file": "qwen_smoke_direct_0_9_36/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.20340902451764806,
+      "coverage": 1.0,
+      "num": 75
+    },
+    {
+      "file": "qwen_smoke_direct_0_9_35/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.04953928085116204,
+      "coverage": 0.25333333333333335,
+      "num": 19
+    },
+    {
+      "file": "qwen_doubao_post_fuse_opt/fuse_qwen_sx1.05_sy1.05_dx-0.06_dy0.0_doubao_sx1.05_sy1.05_dx0.0_dy0.0_ma0_mb1_nms0.85.json",
+      "mode": "as_is",
+      "mAP": 0.29434374480371167,
+      "coverage": 1.0,
+      "num": 141
+    }
+  ],
+  "eval": {
+    "mAP": 0.2969122955059675,
+    "mAP50": 0.7284240799404785,
+    "mAP75": 0.16596676981529038,
+    "stats": [
+      0.2969122955059675,
+      0.7284240799404785,
+      0.16596676981529038,
+      0.24410068155464512,
+      0.26557118638072197,
+      0.3884372859120159,
+      0.3826666666666667,
+      0.512,
+      0.512,
+      0.4416666666666666,
+      0.4424242424242425,
+      0.6166666666666667
+    ]
+  },
+  "category_remap": "local_id - 1 for submission"
+}

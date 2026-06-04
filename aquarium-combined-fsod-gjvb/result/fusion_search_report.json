@@ -1,0 +1,53 @@
+{
+  "dataset": "aquarium-combined-fsod-gjvb",
+  "base_mAP": 0.42023654350933815,
+  "best_mAP": 0.42023654350933815,
+  "best_params": {
+    "type": "base"
+  },
+  "candidate_reports": [
+    {
+      "file": "qwen_aquarium_full_optimized_v1——final.json",
+      "mode": "as_is",
+      "mAP": 0.3945189020415528,
+      "coverage": 1.0,
+      "num": 1037
+    },
+    {
+      "file": "doubao_aquarium_direct_0_9/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.36980939818799,
+      "coverage": 1.0,
+      "num": 535
+    },
+    {
+      "file": "baseline_best.json",
+      "mode": "as_is",
+      "mAP": 0.38415753724579227,
+      "coverage": 1.0,
+      "num": 1050
+    },
+    {
+      "file": "qwen_final_full_jelly_top8_drop_plus_local_strict_v1.json",
+      "mode": "as_is",
+      "mAP": 0.3945189020415528,
+      "coverage": 1.0,
+      "num": 1037
+    },
+    {
+      "file": "doubao_qwen_fuse_opt/fuse_qm0.5_dm1_nms0.75.json",
+      "mode": "as_is",
+      "mAP": 0.4172279529973448,
+      "coverage": 1.0,
+      "num": 1147
+    },
+    {
+      "file": "qwen_local_safe_5img_v1.json",
+      "mode": "as_is",
+      "mAP": 0.38011038684121606,
+      "coverage": 1.0,
+      "num": 1044
+    }
+  ],
+  "updated": false
+}

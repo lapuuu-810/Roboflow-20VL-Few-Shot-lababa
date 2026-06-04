@@ -1,0 +1,29 @@
+{
+  "mAP": 0.0360235758724364,
+  "mAP50": 0.06243899790539514,
+  "mAP75": 0.03971875391669698,
+  "stats": [
+    0.0360235758724364,
+    0.06243899790539514,
+    0.03971875391669698,
+    0.030226084753454664,
+    0.0530178272834029,
+    -1.0,
+    0.06906515083739684,
+    0.1517701447303025,
+    0.1951166014232159,
+    0.15845083236546653,
+    0.22206112501628805,
+    -1.0
+  ],
+  "best_config": "('all', 1.0, 0.7, 0.0, 0.6, 0.5, 100, 40)",
+  "num_predictions": 3745,
+  "cat_counts": {
+    "2": 3331,
+    "4": 150,
+    "1": 152,
+    "3": 112
+  },
+  "category_id_note": "Metrics computed on local Roboflow GT before server remap. Final JSON/PKL use server_id = roboflow_id - 1.",
+  "source": "Qwen v9 full result fused with Doubao raw full result."
+}

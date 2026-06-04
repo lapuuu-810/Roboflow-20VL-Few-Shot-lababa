@@ -1,0 +1,10 @@
+{
+  "dataset": "trail-camera-fsod-egos",
+  "base_mAP": 0.6268064668590844,
+  "best_mAP": 0.6268064668590844,
+  "best_params": {
+    "type": "base"
+  },
+  "candidate_reports": [],
+  "updated": false
+}

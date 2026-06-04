@@ -1,0 +1,70 @@
+{
+  "dataset": "new-defects-in-wood-uewd1-fsod-tffp",
+  "base_mAP": 0.19059896598182802,
+  "best_mAP": 0.21385308021058308,
+  "best_params": {
+    "type": "fuse",
+    "file": "doubao_wood_direct_0_9/predictions.json",
+    "candidate_mode": "as_is",
+    "candidate_multiplier": 0.8,
+    "nms": 0.75,
+    "candidate_mAP": 0.14679409835133414
+  },
+  "candidate_reports": [
+    {
+      "file": "qwen_all_api_fallback_fuse_scale_sweep/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.19059896598182802,
+      "coverage": 1.0,
+      "num": 1108
+    },
+    {
+      "file": "qwen_all_api_fallback_fuse_scale_sweep/predictions_fused_before_scale.json",
+      "mode": "as_is",
+      "mAP": 0.19059896598182802,
+      "coverage": 1.0,
+      "num": 1108
+    },
+    {
+      "file": "doubao_wood_direct_0_9/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.14679409835133414,
+      "coverage": 1.0,
+      "num": 384
+    },
+    {
+      "file": "qwen_direct_bbox_qwen3vl_full/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.16516530178411526,
+      "coverage": 0.96875,
+      "num": 307
+    },
+    {
+      "file": "qwen_direct_bbox_qwen36_full/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.09786994093954923,
+      "coverage": 0.9921875,
+      "num": 277
+    }
+  ],
+  "eval": {
+    "mAP": 0.21385308021058308,
+    "mAP50": 0.4115324449028763,
+    "mAP75": 0.19877894550429537,
+    "stats": [
+      0.21385308021058308,
+      0.4115324449028763,
+      0.19877894550429537,
+      0.1439126491435831,
+      0.19616701308939877,
+      0.2761450367305625,
+      0.27590534921218635,
+      0.4425922386057071,
+      0.45695137978983214,
+      0.25925925925925924,
+      0.3630952380952381,
+      0.5610400079035185
+    ]
+  },
+  "category_remap": "local_id - 1 for submission"
+}

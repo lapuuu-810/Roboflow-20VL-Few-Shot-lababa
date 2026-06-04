@@ -1,0 +1,71 @@
+{
+  "dataset": "flir-camera-objects-fsod-tdqp",
+  "source": "/data/LPP/cvpr/few_shot/sam3-main/best_sam3/flir-camera-objects-fsod-tdqp/predictions_gpu*.jsonl",
+  "category_remap": "local_id - 1 for submission",
+  "search_space": [
+    {
+      "thr": 0.0,
+      "nms": 0.75,
+      "cap": 50,
+      "sx": 1.04,
+      "sy": 1.04
+    }
+  ],
+  "best_params": {
+    "thr": 0.0,
+    "nms": 0.75,
+    "cap": 50,
+    "sx": 1.04,
+    "sy": 1.04
+  },
+  "num_raw_predictions": 4786,
+  "num_final_predictions_local": 4778,
+  "num_final_predictions_server": 4778,
+  "categories_local": [
+    {
+      "id": 0,
+      "name": "flir-camera-objects-fsod-tdqp-tdqp",
+      "supercategory": "none"
+    },
+    {
+      "id": 1,
+      "name": "bicycle",
+      "supercategory": "flir-camera-objects-fsod-tdqp-tdqp"
+    },
+    {
+      "id": 2,
+      "name": "car",
+      "supercategory": "flir-camera-objects-fsod-tdqp-tdqp"
+    },
+    {
+      "id": 3,
+      "name": "dog",
+      "supercategory": "flir-camera-objects-fsod-tdqp-tdqp"
+    },
+    {
+      "id": 4,
+      "name": "person",
+      "supercategory": "flir-camera-objects-fsod-tdqp-tdqp"
+    }
+  ],
+  "eval": {
+    "mAP": 0.3749494059740835,
+    "mAP50": 0.7433964665252334,
+    "mAP75": 0.35177411550330023,
+    "stats": [
+      0.3749494059740835,
+      0.7433964665252334,
+      0.35177411550330023,
+      0.25394546449779165,
+      0.5186544832991969,
+      0.5862980196879214,
+      0.2475108837567798,
+      0.46187247950700405,
+      0.4755716682757326,
+      0.3451191868215363,
+      0.599337019223876,
+      0.6845343137254901
+    ],
+    "coco_summary": "Loading and preparing results...\nDONE (t=0.02s)\ncreating index...\nindex created!\nRunning per image evaluation...\nEvaluate annotation type *bbox*\nDONE (t=0.74s).\nAccumulating evaluation results...\nDONE (t=0.11s).\n Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.375\n Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.743\n Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.352\n Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.254\n Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.519\n Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.586\n Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.248\n Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.462\n Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.476\n Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.345\n Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.599\n Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.685\n"
+  }
+}

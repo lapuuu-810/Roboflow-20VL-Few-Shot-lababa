@@ -1,0 +1,49 @@
+{
+  "dataset": "recode-waste-czvmg-fsod-yxsw",
+  "base_mAP": 0.457203077865662,
+  "best_mAP": 0.47185717400033167,
+  "best_params": {
+    "type": "fuse",
+    "file": "qwen_direct_bbox_english_v1_fuse_0_4_3vl/predictions.json",
+    "candidate_mode": "as_is",
+    "candidate_multiplier": 0.2,
+    "nms": 0.85,
+    "candidate_mAP": 0.2846181413305973
+  },
+  "candidate_reports": [
+    {
+      "file": "qwen_direct_bbox_english_v1_fuse_0_4_3vl/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.2846181413305973,
+      "coverage": 1.0,
+      "num": 6751
+    },
+    {
+      "file": "doubao_direct_bbox_smalltest_v1/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.39952445383084295,
+      "coverage": 1.0,
+      "num": 6671
+    }
+  ],
+  "eval": {
+    "mAP": 0.47185717400033167,
+    "mAP50": 0.5743098047990401,
+    "mAP75": 0.5043224864572932,
+    "stats": [
+      0.47185717400033167,
+      0.5743098047990401,
+      0.5043224864572932,
+      0.00044004400440044003,
+      0.24668831405251596,
+      0.592768585166007,
+      0.15577593670556292,
+      0.5433983097023921,
+      0.5852272609729642,
+      0.0009876543209876543,
+      0.3007383874569994,
+      0.7307857951484894
+    ]
+  },
+  "category_remap": "local_id - 1 for submission"
+}

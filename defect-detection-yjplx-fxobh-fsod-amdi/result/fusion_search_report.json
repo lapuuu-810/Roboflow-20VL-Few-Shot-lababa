@@ -1,0 +1,18 @@
+{
+  "dataset": "defect-detection-yjplx-fxobh-fsod-amdi",
+  "base_mAP": 0.3050309094446834,
+  "best_mAP": 0.3050309094446834,
+  "best_params": {
+    "type": "base"
+  },
+  "candidate_reports": [
+    {
+      "file": "doubao_qwen_fuse_opt/defect_doubao_qwen_fuse_best.json",
+      "mode": "as_is",
+      "mAP": 0.3050309094446834,
+      "coverage": 1.0,
+      "num": 2544
+    }
+  ],
+  "updated": false
+}

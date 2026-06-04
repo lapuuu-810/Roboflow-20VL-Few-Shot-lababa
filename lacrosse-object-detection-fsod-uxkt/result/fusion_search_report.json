@@ -1,0 +1,46 @@
+{
+  "dataset": "lacrosse-object-detection-fsod-uxkt",
+  "base_mAP": 0.3611478014280608,
+  "best_mAP": 0.3611478014280608,
+  "best_params": {
+    "type": "base"
+  },
+  "candidate_reports": [
+    {
+      "file": "all_sources_fuse_best_scale_sweep/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.3611478014280608,
+      "coverage": 1.0,
+      "num": 650
+    },
+    {
+      "file": "all_sources_fuse_best_scale_sweep/predictions_scale105.json",
+      "mode": "as_is",
+      "mAP": 0.3546529895834813,
+      "coverage": 1.0,
+      "num": 650
+    },
+    {
+      "file": "all_sources_fuse_best/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.3500740425707451,
+      "coverage": 1.0,
+      "num": 650
+    },
+    {
+      "file": "qwen35_fallback_fuse_best/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.3054002354724929,
+      "coverage": 1.0,
+      "num": 565
+    },
+    {
+      "file": "qwen35_fallback_fuse_sweep/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.3054002354724929,
+      "coverage": 1.0,
+      "num": 565
+    }
+  ],
+  "updated": false
+}

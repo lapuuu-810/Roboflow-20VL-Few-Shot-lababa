@@ -1,0 +1,26 @@
+{
+  "mAP": 0.2629680897479247,
+  "mAP50": 0.44608285752307597,
+  "mAP75": 0.28600905330648396,
+  "stats": [
+    0.2629680897479247,
+    0.44608285752307597,
+    0.28600905330648396,
+    0.2869848254430052,
+    0.25494927343134666,
+    -1.0,
+    0.11776956490308124,
+    0.3223316258481009,
+    0.32962933639368225,
+    0.3579369676732482,
+    0.2978234401468097,
+    -1.0
+  ],
+  "scale": 1.0,
+  "score_thr": 0.0,
+  "nms_thr": 0.45,
+  "num_predictions": 974,
+  "source": "/data/LPP/cvpr/few_shot/sam3-main/best_sam3/dentalai-i4clz-fsod-fsuo/best_yolo/predictions_v6_yolo_test.json",
+  "category_format_result_json": "coco_1_based",
+  "category_format_submission_pkl": "zero_based"
+}

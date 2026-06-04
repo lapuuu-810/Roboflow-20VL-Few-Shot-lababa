@@ -1,0 +1,23 @@
+{
+  "name": "fuse_qthr0_dthr0_qm0.4_dm1.0_nms0.75",
+  "mAP": 0.457203077865662,
+  "mAP50": 0.5548593886677572,
+  "mAP75": 0.4878751742394232,
+  "stats": [
+    0.457203077865662,
+    0.5548593886677572,
+    0.4878751742394232,
+    0.00044004400440044003,
+    0.2302330308001831,
+    0.579296226528218,
+    0.15577593670556292,
+    0.5269953854964388,
+    0.5591050428157964,
+    0.0009876543209876543,
+    0.2739781691670791,
+    0.7064033986419765
+  ],
+  "count": 9832,
+  "doubao_source": "/data/LPP/cvpr/few_shot/sam3-main/best_sam3/recode-waste-czvmg-fsod-yxsw/doubao_direct_bbox_smalltest_v1/predictions.json",
+  "qwen_source": "/data/LPP/cvpr/few_shot/final/recode-waste-czvmg-fsod-yxsw/result/qwen3vl_full_tile_filtered_fuse.json"
+}

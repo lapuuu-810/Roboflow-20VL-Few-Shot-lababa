@@ -1,0 +1,39 @@
+{
+  "dataset": "paper-parts-fsod-rmrg",
+  "base_mAP": 0.4431154769893519,
+  "best_mAP": 0.4431154769893519,
+  "best_params": {
+    "type": "base"
+  },
+  "candidate_reports": [
+    {
+      "file": "doubao_base_qwen_fallback_fuse/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.4431154769893519,
+      "coverage": 1.0,
+      "num": 5869
+    },
+    {
+      "file": "doubao_base_qwen_fallback_fuse/predictions_fused_before_scale.json",
+      "mode": "as_is",
+      "mAP": 0.4153373209423749,
+      "coverage": 1.0,
+      "num": 5869
+    },
+    {
+      "file": "qwen_paper_direct_api_v1_all_norm1000.json",
+      "mode": "as_is",
+      "mAP": 0.18593828069913015,
+      "coverage": 1.0,
+      "num": 3686
+    },
+    {
+      "file": "qwen_paper_direct_api_v1_all_norm1000_subset_preds.json",
+      "mode": "as_is",
+      "mAP": 0.18593828069913015,
+      "coverage": 1.0,
+      "num": 3686
+    }
+  ],
+  "updated": false
+}

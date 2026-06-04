@@ -1,0 +1,56 @@
+{
+  "dataset": "gwhd2021-fsod-atsv",
+  "source": "/data/LPP/cvpr/few_shot/sam3-main/best_sam3/gwhd2021-fsod-atsv/predictions_gpu*.jsonl",
+  "category_remap": "local_id - 1 for submission",
+  "search_space": [
+    {
+      "thr": 0.0,
+      "nms": 0.55,
+      "cap": 100,
+      "sx": 1.1,
+      "sy": 1.1
+    }
+  ],
+  "best_params": {
+    "thr": 0.0,
+    "nms": 0.55,
+    "cap": 100,
+    "sx": 1.1,
+    "sy": 1.1
+  },
+  "num_raw_predictions": 43897,
+  "num_final_predictions_local": 24723,
+  "num_final_predictions_server": 24723,
+  "categories_local": [
+    {
+      "id": 0,
+      "name": "gwhd2021-fsod-atsv-atsv",
+      "supercategory": "none"
+    },
+    {
+      "id": 1,
+      "name": "Wheat Head",
+      "supercategory": "gwhd2021-fsod-atsv-atsv"
+    }
+  ],
+  "eval": {
+    "mAP": 0.23959138062656207,
+    "mAP50": 0.5251042341989419,
+    "mAP75": 0.18255765493757523,
+    "stats": [
+      0.23959138062656207,
+      0.5251042341989419,
+      0.18255765493757523,
+      0.016993034526006777,
+      0.2633647700393745,
+      0.23932989243160172,
+      0.012933812022461568,
+      0.11538249102457883,
+      0.3861548375218632,
+      0.08220198675496689,
+      0.38015763191143737,
+      0.5057120901639344
+    ],
+    "coco_summary": "Loading and preparing results...\nDONE (t=0.12s)\ncreating index...\nindex created!\nRunning per image evaluation...\nEvaluate annotation type *bbox*\nDONE (t=16.86s).\nAccumulating evaluation results...\nDONE (t=0.23s).\n Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.240\n Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.525\n Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.183\n Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.017\n Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.263\n Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.239\n Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.013\n Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.115\n Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.386\n Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.082\n Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.380\n Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.506\n"
+  }
+}

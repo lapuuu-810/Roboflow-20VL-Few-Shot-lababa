@@ -1,0 +1,74 @@
+{
+  "mAP": 0.27221210619077024,
+  "mAP50": 0.655550239141549,
+  "mAP75": 0.1898430572046195,
+  "mAP_small": 0.0,
+  "mAP_medium": 0.0,
+  "mAP_large": 0.27285541638892336,
+  "AR1": 0.05908566844598631,
+  "AR10": 0.3522253535088081,
+  "AR100": 0.391125257374026,
+  "AR_small": 0.0,
+  "AR_medium": 0.0,
+  "AR_large": 0.3926869632457085,
+  "images": 226,
+  "predictions": 5514,
+  "method": "sam3_color_prompt_mapped_to_original_classes",
+  "category_map": {
+    "0": {
+      "original_name": "soda-bottles-fsod-haga-haga",
+      "prompt_name": "soda-bottles-fsod-haga-haga"
+    },
+    "1": {
+      "original_name": "coca-cola",
+      "prompt_name": "red soda bottle"
+    },
+    "2": {
+      "original_name": "fanta",
+      "prompt_name": "orange soda bottle"
+    },
+    "3": {
+      "original_name": "sprite",
+      "prompt_name": "green soda bottle"
+    }
+  },
+  "params": {
+    "work_root": "/data/LPP/cvpr/few_shot/sam3-main/work_dirs/soda_bottles_color_prompt_data",
+    "sam3_output_parent": "/data/LPP/cvpr/few_shot/sam3-main/sam3_soda_bottles_color_prompt_results",
+    "out_dir": "/data/LPP/cvpr/few_shot/sam3-main/best_sam3/soda-bottles-fsod-haga/sam3_color_prompt_scale098_shape_filter",
+    "checkpoint": "/data/LPP/cvpr/few_shot/sam3-main/sam3_weight/sam3.pt",
+    "gpus": "0,1,2,3",
+    "batch_size": 4,
+    "threshold": 0.35,
+    "num_workers": 4,
+    "max_dets_per_query": -1,
+    "score_thr": 0.0,
+    "nms_thr": 0.5,
+    "topk_image": 50,
+    "class_agnostic_nms": false,
+    "scale_x": 0.98,
+    "scale_y": 0.98,
+    "score_scale": 1.0,
+    "min_w": 1.0,
+    "max_w": 1000000000.0,
+    "min_h": 1.0,
+    "max_h": 1000000000.0,
+    "min_area": 1.0,
+    "max_area": 1000000000000.0,
+    "min_w_frac": 0.05,
+    "min_h_frac": 0.1,
+    "min_area_frac": 0.006,
+    "min_ar": 0.05,
+    "max_ar": 5.0,
+    "skip_sam3": true,
+    "preserve_output": false,
+    "preserve_work": true,
+    "vis": true
+  },
+  "missing": {},
+  "counts": {
+    "3": 2098,
+    "2": 2001,
+    "1": 1415
+  }
+}

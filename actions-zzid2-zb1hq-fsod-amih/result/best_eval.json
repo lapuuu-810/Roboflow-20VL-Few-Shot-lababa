@@ -1,0 +1,42 @@
+{
+  "dataset": "actions-zzid2-zb1hq-fsod-amih",
+  "base_mAP": 0.15552660022218398,
+  "best_mAP": 0.16027392881512784,
+  "best_params": {
+    "type": "fuse",
+    "file": "qwen_direct_actions_smalltest_36/predictions.json",
+    "candidate_mode": "as_is",
+    "candidate_multiplier": 0.4,
+    "nms": 0.85,
+    "candidate_mAP": 0.08771789326917932
+  },
+  "candidate_reports": [
+    {
+      "file": "qwen_direct_actions_smalltest_36/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.08771789326917932,
+      "coverage": 1.0,
+      "num": 3508
+    }
+  ],
+  "eval": {
+    "mAP": 0.16027392881512784,
+    "mAP50": 0.32002536501337997,
+    "mAP75": 0.13956165497263934,
+    "stats": [
+      0.16027392881512784,
+      0.32002536501337997,
+      0.13956165497263934,
+      0.09395600851134787,
+      0.1468124477675008,
+      0.15383954564224508,
+      0.3115056654599046,
+      0.44047780724341806,
+      0.44047780724341806,
+      0.1523605150214592,
+      0.4104754286457535,
+      0.42997472695012856
+    ]
+  },
+  "category_remap": "local_id - 1 for submission"
+}

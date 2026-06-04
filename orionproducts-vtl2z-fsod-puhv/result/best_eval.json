@@ -1,0 +1,63 @@
+{
+  "dataset": "orionproducts-vtl2z-fsod-puhv",
+  "base_mAP": 0.19041114823263472,
+  "best_mAP": 0.19611184886408553,
+  "best_params": {
+    "type": "fuse",
+    "file": "orion_sam3_direct_all.json",
+    "candidate_mode": "as_is",
+    "candidate_multiplier": 0.2,
+    "nms": 0.85,
+    "candidate_mAP": 0.025945841804405328
+  },
+  "candidate_reports": [
+    {
+      "file": "doubao_base_final_fuse/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.19041114823263472,
+      "coverage": 0.9661016949152542,
+      "num": 1039
+    },
+    {
+      "file": "doubao_base_final_fuse/predictions_fused_before_scale.json",
+      "mode": "as_is",
+      "mAP": 0.18117582216419587,
+      "coverage": 0.9661016949152542,
+      "num": 1039
+    },
+    {
+      "file": "orion_sam3_direct_all.json",
+      "mode": "as_is",
+      "mAP": 0.025945841804405328,
+      "coverage": 1.0,
+      "num": 1387
+    },
+    {
+      "file": "doubao_orion_direct_all_norm1000.json",
+      "mode": "as_is",
+      "mAP": 0.159498010696469,
+      "coverage": 0.9322033898305084,
+      "num": 689
+    }
+  ],
+  "eval": {
+    "mAP": 0.19611184886408553,
+    "mAP50": 0.33050838926584736,
+    "mAP75": 0.20462558255808766,
+    "stats": [
+      0.19611184886408553,
+      0.33050838926584736,
+      0.20462558255808766,
+      0.0,
+      0.14664986266832902,
+      0.45535415504135596,
+      0.0949103974591202,
+      0.3520137884744782,
+      0.3997101091578538,
+      0.0,
+      0.365532211441064,
+      0.6338729846542347
+    ]
+  },
+  "category_remap": "local_id - 1 for submission"
+}

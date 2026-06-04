@@ -1,0 +1,84 @@
+{
+  "dataset": "water-meter-jbktv-7vz5k-fsod-ftoz",
+  "base_mAP": 0.39831292666994444,
+  "best_mAP": 0.42339536186576193,
+  "best_params": {
+    "type": "fuse",
+    "file": "qwen_number_prompt_sam3_tuned_scale_sweep/predictions_best.json",
+    "candidate_mode": "as_is",
+    "candidate_multiplier": 1.0,
+    "nms": 0.75,
+    "candidate_mAP": 0.19478993205259887
+  },
+  "candidate_reports": [
+    {
+      "file": "groundingdino_digits_all_post_sweep/predictions_best.json",
+      "mode": "as_is",
+      "mAP": 0.09492589372161953,
+      "coverage": 0.9857142857142858,
+      "num": 4176
+    },
+    {
+      "file": "sam3_panel_crop_all_sweep/predictions_best.json",
+      "mode": "as_is",
+      "mAP": 0.10193962761231347,
+      "coverage": 1.0,
+      "num": 1578
+    },
+    {
+      "file": "water_meter_realesrgan_vlm_final_fuse/predictions_fused_before_scale.json",
+      "mode": "as_is",
+      "mAP": 0.39642564717125367,
+      "coverage": 1.0,
+      "num": 1129
+    },
+    {
+      "file": "water_meter_realesrgan_vlm_final_fuse/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.3974363972781053,
+      "coverage": 1.0,
+      "num": 1129
+    },
+    {
+      "file": "sam3_panel_crop_all_best/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.10193962761231347,
+      "coverage": 1.0,
+      "num": 1578
+    },
+    {
+      "file": "qwen_number_prompt_sam3_tuned_scale_sweep/predictions_best.json",
+      "mode": "as_is",
+      "mAP": 0.19478993205259887,
+      "coverage": 1.0,
+      "num": 439
+    },
+    {
+      "file": "water_meter_realesrgan_vlm_final_fuse/qwen_raw1_scale025.json",
+      "mode": "as_is",
+      "mAP": 0.23405524513052658,
+      "coverage": 1.0,
+      "num": 438
+    }
+  ],
+  "eval": {
+    "mAP": 0.42339536186576193,
+    "mAP50": 0.8686530984193976,
+    "mAP75": 0.372707589925058,
+    "stats": [
+      0.42339536186576193,
+      0.8686530984193976,
+      0.372707589925058,
+      0.4443581227576706,
+      0.4323810185075735,
+      -1.0,
+      0.3907115057950638,
+      0.5535402032019282,
+      0.5535402032019282,
+      0.5457948717948718,
+      0.5597193998811646,
+      -1.0
+    ]
+  },
+  "category_remap": "local_id - 1 for submission"
+}

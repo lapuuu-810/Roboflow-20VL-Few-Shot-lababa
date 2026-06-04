@@ -1,0 +1,77 @@
+{
+  "dataset": "dentalai-i4clz-fsod-fsuo",
+  "base_mAP": 0.0360235758724364,
+  "best_mAP": 0.04055606352722099,
+  "best_params": {
+    "type": "fuse",
+    "file": "_tmp_all_class_3.json",
+    "candidate_mode": "as_is",
+    "candidate_multiplier": 0.8,
+    "nms": 0.75,
+    "candidate_mAP": 0.005638618572508973
+  },
+  "candidate_reports": [
+    {
+      "file": "qwen_dental_sam3crop_all_top35_best_v9.json",
+      "mode": "as_is",
+      "mAP": 0.034582330924312336,
+      "coverage": 1.0,
+      "num": 3484
+    },
+    {
+      "file": "doubao_qwen_v9_fuse_best.json",
+      "mode": "as_is",
+      "mAP": 0.0360235758724364,
+      "coverage": 1.0,
+      "num": 3745
+    },
+    {
+      "file": "_tmp_all_class_4.json",
+      "mode": "as_is",
+      "mAP": 0.003309243497573537,
+      "coverage": 1.0,
+      "num": 4595
+    },
+    {
+      "file": "_tmp_all_class_3.json",
+      "mode": "as_is",
+      "mAP": 0.005638618572508973,
+      "coverage": 1.0,
+      "num": 4595
+    },
+    {
+      "file": "_tmp_all_class_1.json",
+      "mode": "plus1",
+      "mAP": 0.014528906821407343,
+      "coverage": 1.0,
+      "num": 4595
+    },
+    {
+      "file": "_tmp_all_class_2.json",
+      "mode": "as_is",
+      "mAP": 0.014528906821407343,
+      "coverage": 1.0,
+      "num": 4595
+    }
+  ],
+  "eval": {
+    "mAP": 0.04055606352722099,
+    "mAP50": 0.06997459004651405,
+    "mAP75": 0.04534843957161024,
+    "stats": [
+      0.04055606352722099,
+      0.06997459004651405,
+      0.04534843957161024,
+      0.031459980693526755,
+      0.06075724401639486,
+      -1.0,
+      0.06906515083739684,
+      0.1968788403824764,
+      0.28261660142321593,
+      0.2612286101432443,
+      0.2997396964448595,
+      -1.0
+    ]
+  },
+  "category_remap": "local_id - 1 for submission"
+}

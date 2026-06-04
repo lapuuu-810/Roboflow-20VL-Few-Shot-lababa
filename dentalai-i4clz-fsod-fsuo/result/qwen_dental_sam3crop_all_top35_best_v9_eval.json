@@ -1,0 +1,21 @@
+{
+  "mAP": 0.034582330924312336,
+  "mAP50": 0.05986516465688259,
+  "mAP75": 0.03805331927451053,
+  "stats": [
+    0.034582330924312336,
+    0.05986516465688259,
+    0.03805331927451053,
+    0.02948001219319461,
+    0.04908907401582354,
+    -1.0,
+    0.06438721437572385,
+    0.14051249389964088,
+    0.1805124938996409,
+    0.14922718253968253,
+    0.20088091256569518,
+    -1.0
+  ],
+  "category_id_note": "Metrics were computed on local Roboflow GT before final server category-id remap: server_id = roboflow_id - 1.",
+  "final_source": "qwen_dental_sam3crop_all_top35_best_v9.json, full 128-image result"
+}

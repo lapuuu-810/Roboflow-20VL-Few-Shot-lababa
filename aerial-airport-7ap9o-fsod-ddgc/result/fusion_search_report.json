@@ -1,0 +1,39 @@
+{
+  "dataset": "aerial-airport-7ap9o-fsod-ddgc",
+  "base_mAP": 0.5588982300093266,
+  "best_mAP": 0.5588982300093266,
+  "best_params": {
+    "type": "base"
+  },
+  "candidate_reports": [
+    {
+      "file": "boxcal_reg_area_ensemble_best——final/filtered_coco_predictions.json",
+      "mode": "as_is",
+      "mAP": 0.5588982300093266,
+      "coverage": 0.9705882352941176,
+      "num": 1008
+    },
+    {
+      "file": "baseline_all_nms_cpu/filtered_coco_predictions.json",
+      "mode": "as_is",
+      "mAP": 0.424891039775608,
+      "coverage": 0.9705882352941176,
+      "num": 503
+    },
+    {
+      "file": "boxcal_reg_area_ensemble_repro/debug_predictions.json",
+      "mode": "as_is",
+      "mAP": 0.5588982300093266,
+      "coverage": 0.9705882352941176,
+      "num": 1008
+    },
+    {
+      "file": "boxcal_reg_area_ensemble_repro/filtered_coco_predictions.json",
+      "mode": "as_is",
+      "mAP": 0.5588982300093266,
+      "coverage": 0.9705882352941176,
+      "num": 1008
+    }
+  ],
+  "updated": false
+}

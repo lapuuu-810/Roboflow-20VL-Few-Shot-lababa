@@ -1,0 +1,10 @@
+{
+  "dataset": "gwhd2021-fsod-atsv",
+  "base_mAP": 0.23959138062656207,
+  "best_mAP": 0.23959138062656207,
+  "best_params": {
+    "type": "base"
+  },
+  "candidate_reports": [],
+  "updated": false
+}

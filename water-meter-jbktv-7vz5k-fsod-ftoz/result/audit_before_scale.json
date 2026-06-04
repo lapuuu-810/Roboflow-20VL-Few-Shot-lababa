@@ -1,0 +1,2954 @@
+[
+  {
+    "image_id": 0,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 0,
+    "slot": 1,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0161,
+    "sam_score": 0.4805
+  },
+  {
+    "image_id": 0,
+    "slot": 2,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.0205,
+    "sam_score": 0.3965
+  },
+  {
+    "image_id": 0,
+    "slot": 3,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 0,
+    "slot": 4,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 0,
+    "slot": 5,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 0,
+    "slot": 6,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 1,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 1,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 1,
+    "slot": 2,
+    "prompt": "digit 7",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 1,
+    "slot": 3,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 1,
+    "slot": 4,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 1,
+    "slot": 5,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 1,
+    "slot": 6,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 2,
+    "slot": 0,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 2,
+    "slot": 1,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 2,
+    "slot": 2,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 2,
+    "slot": 3,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 2,
+    "slot": 4,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0556,
+    "sam_score": 0.6094
+  },
+  {
+    "image_id": 3,
+    "slot": 0,
+    "prompt": "digit 4",
+    "source": "sam3",
+    "slot_dist": 0.1776,
+    "sam_score": 0.3789
+  },
+  {
+    "image_id": 3,
+    "slot": 1,
+    "prompt": "digit 2",
+    "source": "sam3",
+    "slot_dist": 0.1429,
+    "sam_score": 0.4258
+  },
+  {
+    "image_id": 3,
+    "slot": 2,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 3,
+    "slot": 3,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 3,
+    "slot": 4,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 3,
+    "slot": 5,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 4,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 4,
+    "slot": 1,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 4,
+    "slot": 2,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 4,
+    "slot": 3,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 4,
+    "slot": 4,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 4,
+    "slot": 5,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.0589,
+    "sam_score": 0.6953
+  },
+  {
+    "image_id": 5,
+    "slot": 0,
+    "prompt": "digit 2",
+    "source": "sam3",
+    "slot_dist": 0.0057,
+    "sam_score": 0.7969
+  },
+  {
+    "image_id": 5,
+    "slot": 1,
+    "prompt": "digit 2",
+    "source": "sam3",
+    "slot_dist": 0.0803,
+    "sam_score": 0.7734
+  },
+  {
+    "image_id": 5,
+    "slot": 2,
+    "prompt": "digit 4",
+    "source": "sam3",
+    "slot_dist": 0.1054,
+    "sam_score": 0.6641
+  },
+  {
+    "image_id": 5,
+    "slot": 3,
+    "prompt": "digit 5",
+    "source": "sam3",
+    "slot_dist": 0.1304,
+    "sam_score": 0.5859
+  },
+  {
+    "image_id": 5,
+    "slot": 4,
+    "prompt": "digit 5",
+    "source": "sam3",
+    "slot_dist": 0.1152,
+    "sam_score": 0.5703
+  },
+  {
+    "image_id": 6,
+    "slot": 0,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 6,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.04,
+    "sam_score": 0.4277
+  },
+  {
+    "image_id": 6,
+    "slot": 2,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 6,
+    "slot": 3,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0573,
+    "sam_score": 0.6367
+  },
+  {
+    "image_id": 6,
+    "slot": 4,
+    "prompt": "digit 9",
+    "source": "sam3",
+    "slot_dist": 0.0646,
+    "sam_score": 0.6172
+  },
+  {
+    "image_id": 6,
+    "slot": 5,
+    "prompt": "digit 9",
+    "source": "sam3",
+    "slot_dist": 0.0781,
+    "sam_score": 0.5625
+  },
+  {
+    "image_id": 7,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 7,
+    "slot": 1,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.05,
+    "sam_score": 0.4121
+  },
+  {
+    "image_id": 7,
+    "slot": 2,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.0137,
+    "sam_score": 0.4297
+  },
+  {
+    "image_id": 7,
+    "slot": 3,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 7,
+    "slot": 4,
+    "prompt": "digit 2",
+    "source": "sam3",
+    "slot_dist": 0.049,
+    "sam_score": 0.543
+  },
+  {
+    "image_id": 7,
+    "slot": 5,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 7,
+    "slot": 6,
+    "prompt": "digit 2",
+    "source": "sam3",
+    "slot_dist": 0.1725,
+    "sam_score": 0.543
+  },
+  {
+    "image_id": 8,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0076,
+    "sam_score": 0.3945
+  },
+  {
+    "image_id": 8,
+    "slot": 1,
+    "prompt": "digit 1",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 8,
+    "slot": 2,
+    "prompt": "digit 1",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 8,
+    "slot": 3,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 8,
+    "slot": 4,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 8,
+    "slot": 5,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 8,
+    "slot": 6,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 9,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0204,
+    "sam_score": 0.4844
+  },
+  {
+    "image_id": 9,
+    "slot": 1,
+    "prompt": "digit 1",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 9,
+    "slot": 2,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 9,
+    "slot": 3,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 9,
+    "slot": 4,
+    "prompt": "digit 4",
+    "source": "sam3",
+    "slot_dist": 0.0025,
+    "sam_score": 0.3711
+  },
+  {
+    "image_id": 9,
+    "slot": 5,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 10,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 10,
+    "slot": 1,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 10,
+    "slot": 2,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 10,
+    "slot": 3,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 10,
+    "slot": 4,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.1513,
+    "sam_score": 0.5312
+  },
+  {
+    "image_id": 10,
+    "slot": 5,
+    "prompt": "digit 9",
+    "source": "sam3",
+    "slot_dist": 0.1451,
+    "sam_score": 0.4062
+  },
+  {
+    "image_id": 10,
+    "slot": 6,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 11,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.083,
+    "sam_score": 0.3516
+  },
+  {
+    "image_id": 11,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0841,
+    "sam_score": 0.3555
+  },
+  {
+    "image_id": 11,
+    "slot": 2,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 11,
+    "slot": 3,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 11,
+    "slot": 4,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 11,
+    "slot": 5,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 11,
+    "slot": 6,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.1371,
+    "sam_score": 0.4062
+  },
+  {
+    "image_id": 12,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 12,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 12,
+    "slot": 2,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 12,
+    "slot": 3,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 12,
+    "slot": 4,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 12,
+    "slot": 5,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0665,
+    "sam_score": 0.4805
+  },
+  {
+    "image_id": 12,
+    "slot": 6,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 13,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 13,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 13,
+    "slot": 2,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 13,
+    "slot": 3,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 13,
+    "slot": 4,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.0055,
+    "sam_score": 0.4648
+  },
+  {
+    "image_id": 13,
+    "slot": 5,
+    "prompt": "digit 1",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 13,
+    "slot": 6,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.0061,
+    "sam_score": 0.5117
+  },
+  {
+    "image_id": 13,
+    "slot": 7,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 14,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0819,
+    "sam_score": 0.4863
+  },
+  {
+    "image_id": 14,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0664,
+    "sam_score": 0.5156
+  },
+  {
+    "image_id": 14,
+    "slot": 2,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.106,
+    "sam_score": 0.4082
+  },
+  {
+    "image_id": 14,
+    "slot": 3,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 14,
+    "slot": 4,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 14,
+    "slot": 5,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 14,
+    "slot": 6,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 15,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.121,
+    "sam_score": 0.4766
+  },
+  {
+    "image_id": 15,
+    "slot": 1,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 15,
+    "slot": 2,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 15,
+    "slot": 3,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.233,
+    "sam_score": 0.4258
+  },
+  {
+    "image_id": 15,
+    "slot": 4,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 15,
+    "slot": 5,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.3126,
+    "sam_score": 0.5234
+  },
+  {
+    "image_id": 15,
+    "slot": 6,
+    "prompt": "digit 4",
+    "source": "sam3",
+    "slot_dist": 0.3075,
+    "sam_score": 0.4746
+  },
+  {
+    "image_id": 16,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1047,
+    "sam_score": 0.7422
+  },
+  {
+    "image_id": 16,
+    "slot": 1,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 16,
+    "slot": 2,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 16,
+    "slot": 3,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 17,
+    "slot": 0,
+    "prompt": "digit 1",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 17,
+    "slot": 1,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 17,
+    "slot": 2,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 17,
+    "slot": 3,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 17,
+    "slot": 4,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 17,
+    "slot": 5,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 18,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 18,
+    "slot": 1,
+    "prompt": "digit 1",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 18,
+    "slot": 2,
+    "prompt": "digit 4",
+    "source": "sam3",
+    "slot_dist": 0.076,
+    "sam_score": 0.3555
+  },
+  {
+    "image_id": 18,
+    "slot": 3,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 18,
+    "slot": 4,
+    "prompt": "digit 4",
+    "source": "sam3",
+    "slot_dist": 0.1017,
+    "sam_score": 0.4844
+  },
+  {
+    "image_id": 18,
+    "slot": 5,
+    "prompt": "digit 4",
+    "source": "sam3",
+    "slot_dist": 0.0949,
+    "sam_score": 0.4941
+  },
+  {
+    "image_id": 19,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 19,
+    "slot": 1,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 19,
+    "slot": 2,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 19,
+    "slot": 3,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 19,
+    "slot": 4,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 19,
+    "slot": 5,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 20,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0541,
+    "sam_score": 0.3672
+  },
+  {
+    "image_id": 20,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1015,
+    "sam_score": 0.3867
+  },
+  {
+    "image_id": 20,
+    "slot": 2,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 20,
+    "slot": 3,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 20,
+    "slot": 4,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 20,
+    "slot": 5,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.398,
+    "sam_score": 0.6211
+  },
+  {
+    "image_id": 20,
+    "slot": 6,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.4978,
+    "sam_score": 0.6523
+  },
+  {
+    "image_id": 21,
+    "slot": 0,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 21,
+    "slot": 1,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.1326,
+    "sam_score": 0.4316
+  },
+  {
+    "image_id": 21,
+    "slot": 2,
+    "prompt": "digit 2",
+    "source": "sam3",
+    "slot_dist": 0.2389,
+    "sam_score": 0.4902
+  },
+  {
+    "image_id": 21,
+    "slot": 3,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 21,
+    "slot": 4,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 22,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1828,
+    "sam_score": 0.5664
+  },
+  {
+    "image_id": 22,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1056,
+    "sam_score": 0.4121
+  },
+  {
+    "image_id": 22,
+    "slot": 2,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.2111,
+    "sam_score": 0.6758
+  },
+  {
+    "image_id": 22,
+    "slot": 3,
+    "prompt": "digit 8",
+    "source": "sam3",
+    "slot_dist": 0.2193,
+    "sam_score": 0.498
+  },
+  {
+    "image_id": 23,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 23,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 23,
+    "slot": 2,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 23,
+    "slot": 3,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 23,
+    "slot": 4,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 23,
+    "slot": 5,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 23,
+    "slot": 6,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 23,
+    "slot": 7,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 24,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 24,
+    "slot": 1,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 24,
+    "slot": 2,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 24,
+    "slot": 3,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.1147,
+    "sam_score": 0.5664
+  },
+  {
+    "image_id": 24,
+    "slot": 4,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.1043,
+    "sam_score": 0.4746
+  },
+  {
+    "image_id": 24,
+    "slot": 5,
+    "prompt": "digit 2",
+    "source": "sam3",
+    "slot_dist": 0.0387,
+    "sam_score": 0.3926
+  },
+  {
+    "image_id": 24,
+    "slot": 6,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 25,
+    "slot": 0,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 25,
+    "slot": 1,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 25,
+    "slot": 2,
+    "prompt": "digit 4",
+    "source": "sam3",
+    "slot_dist": 0.4064,
+    "sam_score": 0.4844
+  },
+  {
+    "image_id": 25,
+    "slot": 3,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.2166,
+    "sam_score": 0.4609
+  },
+  {
+    "image_id": 26,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 26,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 26,
+    "slot": 2,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 26,
+    "slot": 3,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 26,
+    "slot": 4,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 26,
+    "slot": 5,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 26,
+    "slot": 6,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 27,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0126,
+    "sam_score": 0.3535
+  },
+  {
+    "image_id": 27,
+    "slot": 1,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 27,
+    "slot": 2,
+    "prompt": "digit 4",
+    "source": "sam3",
+    "slot_dist": 0.0789,
+    "sam_score": 0.4102
+  },
+  {
+    "image_id": 27,
+    "slot": 3,
+    "prompt": "digit 9",
+    "source": "sam3",
+    "slot_dist": 0.0806,
+    "sam_score": 0.3652
+  },
+  {
+    "image_id": 27,
+    "slot": 4,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.1193,
+    "sam_score": 0.6641
+  },
+  {
+    "image_id": 27,
+    "slot": 5,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 27,
+    "slot": 6,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 28,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0584,
+    "sam_score": 0.4004
+  },
+  {
+    "image_id": 28,
+    "slot": 1,
+    "prompt": "digit 1",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 28,
+    "slot": 2,
+    "prompt": "digit 1",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 28,
+    "slot": 3,
+    "prompt": "digit 7",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 28,
+    "slot": 4,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 28,
+    "slot": 5,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.2253,
+    "sam_score": 0.6836
+  },
+  {
+    "image_id": 29,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0916,
+    "sam_score": 0.4199
+  },
+  {
+    "image_id": 29,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1854,
+    "sam_score": 0.4121
+  },
+  {
+    "image_id": 29,
+    "slot": 2,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 29,
+    "slot": 3,
+    "prompt": "digit 4",
+    "source": "sam3",
+    "slot_dist": 0.2442,
+    "sam_score": 0.4785
+  },
+  {
+    "image_id": 29,
+    "slot": 4,
+    "prompt": "digit 5",
+    "source": "sam3",
+    "slot_dist": 0.1083,
+    "sam_score": 0.625
+  },
+  {
+    "image_id": 29,
+    "slot": 5,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0368,
+    "sam_score": 0.7734
+  },
+  {
+    "image_id": 30,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 30,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 30,
+    "slot": 2,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 30,
+    "slot": 3,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 30,
+    "slot": 4,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.09,
+    "sam_score": 0.5039
+  },
+  {
+    "image_id": 31,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.103,
+    "sam_score": 0.4473
+  },
+  {
+    "image_id": 31,
+    "slot": 1,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.017,
+    "sam_score": 0.625
+  },
+  {
+    "image_id": 31,
+    "slot": 2,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 31,
+    "slot": 3,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0603,
+    "sam_score": 0.7734
+  },
+  {
+    "image_id": 31,
+    "slot": 4,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.1058,
+    "sam_score": 0.7773
+  },
+  {
+    "image_id": 31,
+    "slot": 5,
+    "prompt": "digit 6",
+    "source": "sam3",
+    "slot_dist": 0.0834,
+    "sam_score": 0.4395
+  },
+  {
+    "image_id": 32,
+    "slot": 0,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 32,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0597,
+    "sam_score": 0.3887
+  },
+  {
+    "image_id": 32,
+    "slot": 2,
+    "prompt": "digit 2",
+    "source": "sam3",
+    "slot_dist": 0.0372,
+    "sam_score": 0.457
+  },
+  {
+    "image_id": 32,
+    "slot": 3,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0571,
+    "sam_score": 0.6094
+  },
+  {
+    "image_id": 32,
+    "slot": 4,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 32,
+    "slot": 5,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0886,
+    "sam_score": 0.7539
+  },
+  {
+    "image_id": 33,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.4333,
+    "sam_score": 0.3652
+  },
+  {
+    "image_id": 33,
+    "slot": 1,
+    "prompt": "digit 1",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 33,
+    "slot": 2,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 33,
+    "slot": 3,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 33,
+    "slot": 4,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.2508,
+    "sam_score": 0.4922
+  },
+  {
+    "image_id": 33,
+    "slot": 5,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 33,
+    "slot": 6,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 34,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 34,
+    "slot": 1,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 34,
+    "slot": 2,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 34,
+    "slot": 3,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 34,
+    "slot": 4,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 34,
+    "slot": 5,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.1648,
+    "sam_score": 0.3867
+  },
+  {
+    "image_id": 35,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1011,
+    "sam_score": 0.5977
+  },
+  {
+    "image_id": 35,
+    "slot": 1,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 35,
+    "slot": 2,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 35,
+    "slot": 3,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 35,
+    "slot": 4,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 35,
+    "slot": 5,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 36,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 36,
+    "slot": 1,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 36,
+    "slot": 2,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.0551,
+    "sam_score": 0.4258
+  },
+  {
+    "image_id": 36,
+    "slot": 3,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0714,
+    "sam_score": 0.459
+  },
+  {
+    "image_id": 36,
+    "slot": 4,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 36,
+    "slot": 5,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0127,
+    "sam_score": 0.5898
+  },
+  {
+    "image_id": 36,
+    "slot": 6,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0005,
+    "sam_score": 0.5742
+  },
+  {
+    "image_id": 37,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 37,
+    "slot": 1,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 37,
+    "slot": 2,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 37,
+    "slot": 3,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 37,
+    "slot": 4,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 37,
+    "slot": 5,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 37,
+    "slot": 6,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 38,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1039,
+    "sam_score": 0.3711
+  },
+  {
+    "image_id": 38,
+    "slot": 1,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 38,
+    "slot": 2,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 38,
+    "slot": 3,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.0704,
+    "sam_score": 0.5195
+  },
+  {
+    "image_id": 38,
+    "slot": 4,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.0312,
+    "sam_score": 0.8086
+  },
+  {
+    "image_id": 38,
+    "slot": 5,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0047,
+    "sam_score": 0.459
+  },
+  {
+    "image_id": 39,
+    "slot": 0,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0183,
+    "sam_score": 0.9102
+  },
+  {
+    "image_id": 39,
+    "slot": 1,
+    "prompt": "digit 2",
+    "source": "sam3",
+    "slot_dist": 0.0352,
+    "sam_score": 0.5352
+  },
+  {
+    "image_id": 39,
+    "slot": 2,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0357,
+    "sam_score": 0.9062
+  },
+  {
+    "image_id": 39,
+    "slot": 3,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.0287,
+    "sam_score": 0.8242
+  },
+  {
+    "image_id": 39,
+    "slot": 4,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.028,
+    "sam_score": 0.7734
+  },
+  {
+    "image_id": 39,
+    "slot": 5,
+    "prompt": "digit 9",
+    "source": "sam3",
+    "slot_dist": 0.0462,
+    "sam_score": 0.5703
+  },
+  {
+    "image_id": 40,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 40,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 40,
+    "slot": 2,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.3582,
+    "sam_score": 0.5117
+  },
+  {
+    "image_id": 40,
+    "slot": 3,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 40,
+    "slot": 4,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 40,
+    "slot": 5,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 40,
+    "slot": 6,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 41,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 41,
+    "slot": 1,
+    "prompt": "digit 1",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 41,
+    "slot": 2,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 41,
+    "slot": 3,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 41,
+    "slot": 4,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 41,
+    "slot": 5,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 41,
+    "slot": 6,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 42,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1183,
+    "sam_score": 0.5195
+  },
+  {
+    "image_id": 42,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0779,
+    "sam_score": 0.5312
+  },
+  {
+    "image_id": 42,
+    "slot": 2,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 42,
+    "slot": 3,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 42,
+    "slot": 4,
+    "prompt": "digit 4",
+    "source": "sam3",
+    "slot_dist": 0.1142,
+    "sam_score": 0.373
+  },
+  {
+    "image_id": 42,
+    "slot": 5,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 42,
+    "slot": 6,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 43,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 43,
+    "slot": 1,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 43,
+    "slot": 2,
+    "prompt": "digit 7",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 43,
+    "slot": 3,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 43,
+    "slot": 4,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 43,
+    "slot": 5,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 44,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 44,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 44,
+    "slot": 2,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 44,
+    "slot": 3,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0605,
+    "sam_score": 0.707
+  },
+  {
+    "image_id": 44,
+    "slot": 4,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 44,
+    "slot": 5,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 44,
+    "slot": 6,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 45,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1576,
+    "sam_score": 0.4141
+  },
+  {
+    "image_id": 45,
+    "slot": 1,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 45,
+    "slot": 2,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 45,
+    "slot": 3,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 45,
+    "slot": 4,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 46,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0155,
+    "sam_score": 0.3633
+  },
+  {
+    "image_id": 46,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.018,
+    "sam_score": 0.3633
+  },
+  {
+    "image_id": 46,
+    "slot": 2,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 46,
+    "slot": 3,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 46,
+    "slot": 4,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1434,
+    "sam_score": 0.3594
+  },
+  {
+    "image_id": 46,
+    "slot": 5,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 46,
+    "slot": 6,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 47,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1518,
+    "sam_score": 0.3887
+  },
+  {
+    "image_id": 47,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1406,
+    "sam_score": 0.3906
+  },
+  {
+    "image_id": 47,
+    "slot": 2,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 47,
+    "slot": 3,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 47,
+    "slot": 4,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0555,
+    "sam_score": 0.4258
+  },
+  {
+    "image_id": 47,
+    "slot": 5,
+    "prompt": "digit 1",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 48,
+    "slot": 0,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0337,
+    "sam_score": 0.8242
+  },
+  {
+    "image_id": 48,
+    "slot": 1,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 48,
+    "slot": 2,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 48,
+    "slot": 3,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 48,
+    "slot": 4,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 49,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0117,
+    "sam_score": 0.3652
+  },
+  {
+    "image_id": 49,
+    "slot": 1,
+    "prompt": "digit 1",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 49,
+    "slot": 2,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 49,
+    "slot": 3,
+    "prompt": "digit 1",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 49,
+    "slot": 4,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.06,
+    "sam_score": 0.6016
+  },
+  {
+    "image_id": 49,
+    "slot": 5,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 50,
+    "slot": 0,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 50,
+    "slot": 1,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 50,
+    "slot": 2,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 50,
+    "slot": 3,
+    "prompt": "digit 4",
+    "source": "sam3",
+    "slot_dist": 0.2228,
+    "sam_score": 0.4395
+  },
+  {
+    "image_id": 50,
+    "slot": 4,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 50,
+    "slot": 5,
+    "prompt": "digit 4",
+    "source": "sam3",
+    "slot_dist": 0.3396,
+    "sam_score": 0.3848
+  },
+  {
+    "image_id": 51,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 51,
+    "slot": 1,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.105,
+    "sam_score": 0.5352
+  },
+  {
+    "image_id": 51,
+    "slot": 2,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 51,
+    "slot": 3,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 51,
+    "slot": 4,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 51,
+    "slot": 5,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 52,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0298,
+    "sam_score": 0.373
+  },
+  {
+    "image_id": 52,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 52,
+    "slot": 2,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0059,
+    "sam_score": 0.416
+  },
+  {
+    "image_id": 52,
+    "slot": 3,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 52,
+    "slot": 4,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 52,
+    "slot": 5,
+    "prompt": "digit 9",
+    "source": "sam3",
+    "slot_dist": 0.0819,
+    "sam_score": 0.4863
+  },
+  {
+    "image_id": 52,
+    "slot": 6,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 53,
+    "slot": 0,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 53,
+    "slot": 1,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 53,
+    "slot": 2,
+    "prompt": "digit 2",
+    "source": "sam3",
+    "slot_dist": 0.1134,
+    "sam_score": 0.4766
+  },
+  {
+    "image_id": 53,
+    "slot": 3,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 53,
+    "slot": 4,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 53,
+    "slot": 5,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 54,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 54,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 54,
+    "slot": 2,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 54,
+    "slot": 3,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 54,
+    "slot": 4,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.4067,
+    "sam_score": 0.6602
+  },
+  {
+    "image_id": 54,
+    "slot": 5,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 54,
+    "slot": 6,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 54,
+    "slot": 7,
+    "prompt": "digit 1",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 55,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1688,
+    "sam_score": 0.4023
+  },
+  {
+    "image_id": 55,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.3207,
+    "sam_score": 0.4023
+  },
+  {
+    "image_id": 55,
+    "slot": 2,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 55,
+    "slot": 3,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 55,
+    "slot": 4,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 56,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 56,
+    "slot": 1,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.3065,
+    "sam_score": 0.5977
+  },
+  {
+    "image_id": 56,
+    "slot": 2,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 56,
+    "slot": 3,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 56,
+    "slot": 4,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 57,
+    "slot": 0,
+    "prompt": "digit 9",
+    "source": "sam3",
+    "slot_dist": 0.052,
+    "sam_score": 0.4473
+  },
+  {
+    "image_id": 57,
+    "slot": 1,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 57,
+    "slot": 2,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.1291,
+    "sam_score": 0.8398
+  },
+  {
+    "image_id": 57,
+    "slot": 3,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1397,
+    "sam_score": 0.5781
+  },
+  {
+    "image_id": 57,
+    "slot": 4,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.263,
+    "sam_score": 0.7383
+  },
+  {
+    "image_id": 58,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0653,
+    "sam_score": 0.3613
+  },
+  {
+    "image_id": 58,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0619,
+    "sam_score": 0.3672
+  },
+  {
+    "image_id": 58,
+    "slot": 2,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0312,
+    "sam_score": 0.4355
+  },
+  {
+    "image_id": 58,
+    "slot": 3,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 58,
+    "slot": 4,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 58,
+    "slot": 5,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 58,
+    "slot": 6,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 58,
+    "slot": 7,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 59,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0283,
+    "sam_score": 0.5312
+  },
+  {
+    "image_id": 59,
+    "slot": 1,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0229,
+    "sam_score": 0.7188
+  },
+  {
+    "image_id": 59,
+    "slot": 2,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.116,
+    "sam_score": 0.5352
+  },
+  {
+    "image_id": 59,
+    "slot": 3,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0958,
+    "sam_score": 0.7344
+  },
+  {
+    "image_id": 59,
+    "slot": 4,
+    "prompt": "digit 9",
+    "source": "sam3",
+    "slot_dist": 0.1801,
+    "sam_score": 0.5117
+  },
+  {
+    "image_id": 59,
+    "slot": 5,
+    "prompt": "digit 8",
+    "source": "sam3",
+    "slot_dist": 0.1919,
+    "sam_score": 0.4902
+  },
+  {
+    "image_id": 60,
+    "slot": 0,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 60,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0119,
+    "sam_score": 0.4785
+  },
+  {
+    "image_id": 60,
+    "slot": 2,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 60,
+    "slot": 3,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0308,
+    "sam_score": 0.5703
+  },
+  {
+    "image_id": 60,
+    "slot": 4,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 60,
+    "slot": 5,
+    "prompt": "digit 9",
+    "source": "sam3",
+    "slot_dist": 0.0194,
+    "sam_score": 0.4668
+  },
+  {
+    "image_id": 61,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1428,
+    "sam_score": 0.4629
+  },
+  {
+    "image_id": 61,
+    "slot": 1,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1763,
+    "sam_score": 0.459
+  },
+  {
+    "image_id": 61,
+    "slot": 2,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.1793,
+    "sam_score": 0.4414
+  },
+  {
+    "image_id": 61,
+    "slot": 3,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 61,
+    "slot": 4,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 61,
+    "slot": 5,
+    "prompt": "digit 4",
+    "source": "sam3",
+    "slot_dist": 0.185,
+    "sam_score": 0.3535
+  },
+  {
+    "image_id": 62,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0048,
+    "sam_score": 0.4277
+  },
+  {
+    "image_id": 62,
+    "slot": 1,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 62,
+    "slot": 2,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 62,
+    "slot": 3,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0051,
+    "sam_score": 0.7266
+  },
+  {
+    "image_id": 62,
+    "slot": 4,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 62,
+    "slot": 5,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 62,
+    "slot": 6,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 63,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 63,
+    "slot": 1,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0702,
+    "sam_score": 0.5
+  },
+  {
+    "image_id": 63,
+    "slot": 2,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.0315,
+    "sam_score": 0.5703
+  },
+  {
+    "image_id": 63,
+    "slot": 3,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 63,
+    "slot": 4,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 63,
+    "slot": 5,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 63,
+    "slot": 6,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 64,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 64,
+    "slot": 1,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.3207,
+    "sam_score": 0.7227
+  },
+  {
+    "image_id": 64,
+    "slot": 2,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 64,
+    "slot": 3,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 64,
+    "slot": 4,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.1021,
+    "sam_score": 0.7734
+  },
+  {
+    "image_id": 64,
+    "slot": 5,
+    "prompt": "digit 5",
+    "source": "sam3",
+    "slot_dist": 0.0651,
+    "sam_score": 0.5977
+  },
+  {
+    "image_id": 64,
+    "slot": 6,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 64,
+    "slot": 7,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.1554,
+    "sam_score": 0.5859
+  },
+  {
+    "image_id": 65,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0711,
+    "sam_score": 0.5312
+  },
+  {
+    "image_id": 65,
+    "slot": 1,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 65,
+    "slot": 2,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 65,
+    "slot": 3,
+    "prompt": "digit 9",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 65,
+    "slot": 4,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.0601,
+    "sam_score": 0.4941
+  },
+  {
+    "image_id": 65,
+    "slot": 5,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 65,
+    "slot": 6,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.0204,
+    "sam_score": 0.4551
+  },
+  {
+    "image_id": 66,
+    "slot": 0,
+    "prompt": "digit 0",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 66,
+    "slot": 1,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 66,
+    "slot": 2,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 66,
+    "slot": 3,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 66,
+    "slot": 4,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 66,
+    "slot": 5,
+    "prompt": "digit 2",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 66,
+    "slot": 6,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 67,
+    "slot": 0,
+    "prompt": "digit 1",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 67,
+    "slot": 1,
+    "prompt": "digit 4",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 67,
+    "slot": 2,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.0113,
+    "sam_score": 0.4746
+  },
+  {
+    "image_id": 67,
+    "slot": 3,
+    "prompt": "digit 5",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 67,
+    "slot": 4,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.1444,
+    "sam_score": 0.7266
+  },
+  {
+    "image_id": 67,
+    "slot": 5,
+    "prompt": "digit 7",
+    "source": "sam3",
+    "slot_dist": 0.2004,
+    "sam_score": 0.6992
+  },
+  {
+    "image_id": 68,
+    "slot": 0,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 68,
+    "slot": 1,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 68,
+    "slot": 2,
+    "prompt": "digit 6",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 68,
+    "slot": 3,
+    "prompt": "digit 9",
+    "source": "sam3",
+    "slot_dist": 0.2768,
+    "sam_score": 0.3594
+  },
+  {
+    "image_id": 68,
+    "slot": 4,
+    "prompt": "digit 9",
+    "source": "sam3",
+    "slot_dist": 0.3544,
+    "sam_score": 0.498
+  },
+  {
+    "image_id": 69,
+    "slot": 0,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 69,
+    "slot": 1,
+    "prompt": "digit 3",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 69,
+    "slot": 2,
+    "prompt": "digit 8",
+    "source": "slot_fallback"
+  },
+  {
+    "image_id": 69,
+    "slot": 3,
+    "prompt": "digit 0",
+    "source": "sam3",
+    "slot_dist": 0.1768,
+    "sam_score": 0.6133
+  },
+  {
+    "image_id": 69,
+    "slot": 4,
+    "prompt": "digit 1",
+    "source": "sam3",
+    "slot_dist": 0.1358,
+    "sam_score": 0.7461
+  }
+]

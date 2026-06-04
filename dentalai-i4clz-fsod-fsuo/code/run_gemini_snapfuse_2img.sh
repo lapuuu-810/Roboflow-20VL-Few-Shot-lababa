@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd /data/LPP/cvpr/few_shot/sam3-main/best_sam3/dentalai-i4clz-fsod-fsuo
+
+: "${GEMINI_API_KEY:?Set GEMINI_API_KEY before running}"
+
+python gemini_dental_sam3_candidate_api.py \
+  --image-ids 0,1 \
+  --topk-per-image 35 \
+  --min-area 80 \
+  --max-area 5000 \
+  --min-score 0.0 \
+  --candidate-nms 0.65 \
+  --context 1.15 \
+  --max-side 720 \
+  --coord-mode norm1000 \
+  --accept-shift 0.85 \
+  --accept-iou 0.03 \
+  --box-source hybrid \
+  --sam3-score-weight 0.25 \
+  --score-scale 1.0 \
+  --final-nms 0.45 \
+  --out gemini_dental_sam3crop_2img_top35_rawapi_v1.json \
+  --raw-dir gemini_dental_sam3crop_2img_top35_rawapi_v1_raw \
+  --resume \
+  --evaluate
+
+python snap_fuse_gemini_sam3.py \
+  --api gemini_dental_sam3crop_2img_top35_rawapi_v1.json \
+  --image-ids 0,1 \
+  --out gemini_dental_snapfuse_2img_v1.json

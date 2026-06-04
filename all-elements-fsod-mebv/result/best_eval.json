@@ -1,0 +1,77 @@
+{
+  "dataset": "all-elements-fsod-mebv",
+  "base_mAP": 0.4569042790311343,
+  "best_mAP": 0.4584560998688709,
+  "best_params": {
+    "type": "fuse",
+    "file": "doubao_all_elements_direct_0_9/predictions.json",
+    "candidate_mode": "as_is",
+    "candidate_multiplier": 0.2,
+    "nms": 0.85,
+    "candidate_mAP": 0.4025573582177416
+  },
+  "candidate_reports": [
+    {
+      "file": "doubao_all_elements_direct_0_9/predictions.json",
+      "mode": "as_is",
+      "mAP": 0.4025573582177416,
+      "coverage": 1.0,
+      "num": 1032
+    },
+    {
+      "file": "qwen_api_direct_full_v1——final.json",
+      "mode": "as_is",
+      "mAP": 0.3934398820601464,
+      "coverage": 0.9857142857142858,
+      "num": 653
+    },
+    {
+      "file": "tmp_duplicate_all.json",
+      "mode": "as_is",
+      "mAP": 0.055356202718037345,
+      "coverage": 1.0,
+      "num": 12930
+    },
+    {
+      "file": "tmp_expand_fallback.json",
+      "mode": "as_is",
+      "mAP": 0.20304115071630255,
+      "coverage": 1.0,
+      "num": 3072
+    },
+    {
+      "file": "qwen_api_direct_20_62_norm_v3.json",
+      "mode": "as_is",
+      "mAP": 0.21862639930597877,
+      "coverage": 1.0,
+      "num": 1298
+    },
+    {
+      "file": "qwen_api_direct_20_62_norm_v2.json",
+      "mode": "as_is",
+      "mAP": 0.22248556846154163,
+      "coverage": 1.0,
+      "num": 1298
+    }
+  ],
+  "eval": {
+    "mAP": 0.4584560998688709,
+    "mAP50": 0.7291082839156983,
+    "mAP75": 0.45619535950979695,
+    "stats": [
+      0.4584560998688709,
+      0.7291082839156983,
+      0.45619535950979695,
+      0.32028181656273025,
+      0.5463720382006326,
+      0.6412194102265467,
+      0.20418901410817644,
+      0.5645409667488958,
+      0.6173011760159922,
+      0.5457978417537241,
+      0.6985861493255388,
+      0.7912245306776556
+    ]
+  },
+  "category_remap": "local_id - 1 for submission"
+}
